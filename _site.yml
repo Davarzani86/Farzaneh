@@ -1,0 +1,20 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Farzaneh Davarzani"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "CV"
+      href: Academic_CV.pdf
+    - text: "Teaching"
+      href: teaching.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: email.html
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/farzaneh-davarzani-90594647/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

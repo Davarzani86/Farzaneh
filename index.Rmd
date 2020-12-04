@@ -1,0 +1,34 @@
+---
+---
+<meta name="google-site-verification" content="x5eyYVNFwLHRoVrnUCKLfOzFzUeZpHuQ5j4B2VCUGrQ" />
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<br>
+<br>
+<img src="portrait.jpg" style="width:25%; margin-right: 20px" align="right">
+
+<br>
+
+<b>Description:</b> <br>
+
+
+Welcome to my website. I am a PhD candidate in Economics at University of Ottawa in Canada. I am in my sixth year of the PhD program. <br>
+
+<b>Research interests:</b> <br>
+
+My research interests are in macroeconomics, international economics, and applied Econometrics. I would like to work in the fields related to Monetary Economics.
+<br>
+
+I am also a Python enthusiast.
+<br>
+
+
+
+<b>Ph.D. committee members:</b> <br>
+<div style="text-align: justify">
+[Lilia Karnizova](https://uniweb.uottawa.ca/?lang=fr#!/members/914) (Supervisor) <br>
+[Raul Razo-Garcia](https://sites.google.com/site/razogarciahomepage/) (co-supervisor) <br>
+[Francesca Rondina](https://sites.google.com/site/francescarondina/home)<br>
+[Maral Kichian](https://uniweb.uottawa.ca/members/938/profile)<br>
+[Minjoon Lee](https://sites.google.com/site/minjoonlee/)
+</div>
