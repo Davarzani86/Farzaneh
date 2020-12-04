@@ -16,7 +16,8 @@ Welcome to my website. I am a PhD candidate in Economics at University of Ottawa
 
 <b>Research interests:</b> <br>
 
-My research interests are in macroeconomics, international economics, and applied Econometrics. I would like to work in the fields related to Monetary Economics.
+My research interests are in macroeconomics, international economics, and applied Econometrics.<br> 
+I would like to work in the fields related to Monetary Economics.
 <br>
 
 I am also a Python enthusiast.
