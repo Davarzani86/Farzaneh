@@ -7,6 +7,8 @@ css: cv_styles.css
 
 <br>
 
+<br>
+<br>
 
 You can download my CV [here](Academic_CV.pdf), last update: November 2021<br>
 
