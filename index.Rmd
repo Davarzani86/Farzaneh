@@ -1,5 +1,6 @@
 ---
-<title>Farzaneh Davarzani</title>
+title: "Farzaneh Davarzani"
+output: html_document
 ---
 
 <meta name="google-site-verification" content="x5eyYVNFwLHRoVrnUCKLfOzFzUeZpHuQ5j4B2VCUGrQ" />
