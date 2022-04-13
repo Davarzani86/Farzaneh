@@ -15,12 +15,13 @@ output: html_document
 <b>Description:</b> <br>
 
 
-Welcome to my website. I am a PhD candidate in Economics at University of Ottawa in Canada. I am in my sixth year of the PhD program. I am in the job market this year and available for interviews.<br>
+Welcome to my website. I complete my PhD requirements in Economics at the University of Ottawa, Canada. <br>
+I am in the job market this year and available for interviews.<br>
 
 <b>Research interests:</b> <br>
 
-My research interests are in macroeconomics, international economics, and applied Econometrics.<br> 
-I would also like to work in the fields related to Monetary Economics.
+My research interests are in international economics, macroeconomics, and applied econometrics.<br> 
+I would also like to work in the fields related to monetary economics.
 <br>
 
 
