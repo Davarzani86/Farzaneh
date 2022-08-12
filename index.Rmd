@@ -15,12 +15,15 @@ output: html_document
 <b>Description:</b> <br>
 
 
-Welcome to my website. I hold a PhD in Economics at the University of Ottawa, Canada. <br>
-I am in the job market this year and available for interviews.<br>
+Hi!<br>
+I am a postdoctoral researcher at Carleton University since August 2022, working with Professor [Mehdi Ammi](https://carleton.ca/sppa/mehdi-ammi-2/) under his CIHR grant on "Public Health Finance". <br>
+I received my PhD in Economics at the University of Ottawa, Canada supervision of [Lilia Karnizova](https://uniweb.uottawa.ca/?lang=fr#!/members/914) and <br> 
+[Raul Razo-Garcia](https://sites.google.com/site/razogarciahomepage/). <br>
+
 
 <b>Research interests:</b> <br>
 
-I am a macroeconomist with a specialization in quantitative econometrics. My expertise is in international economics, macroeconomics, and applied econometrics.
+I am a macroeconomist with a specialization in quantitative econometrics. My expertise is in international economics, public health, macroeconomics, and applied econometrics.
 <br>
 
 
@@ -28,9 +31,7 @@ I am a macroeconomist with a specialization in quantitative econometrics. My exp
 
 <b>Ph.D. committee members:</b> <br>
 <div style="text-align: justify">
-[Lilia Karnizova](https://uniweb.uottawa.ca/?lang=fr#!/members/914) (Supervisor) <br>
-[Raul Razo-Garcia](https://sites.google.com/site/razogarciahomepage/) (co-supervisor) <br>
-[Francesca Rondina](https://sites.google.com/site/francescarondina/home)<br>
+[Minjoon Lee](https://sites.google.com/site/minjoonlee/) <br>
 [Maral Kichian](https://uniweb.uottawa.ca/members/938/profile)<br>
-[Minjoon Lee](https://sites.google.com/site/minjoonlee/)
+[Francesca Rondina](https://sites.google.com/site/francescarondina/home)
 </div>

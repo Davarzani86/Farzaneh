@@ -4,4 +4,4 @@ output: html_document
 ---
 
 
-contact: <a href = "mailto: fdava018@uottawa.ca">fdava018@uottawa.ca</a>
+contact: <a href = "mailto: farzanehdavarzani@cunet.carleton.ca">farzanehdavarzani@cunet.carleton.ca.ca</a>
