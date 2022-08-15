@@ -17,13 +17,13 @@ output: html_document
 
 Hi!<br>
 I am a postdoctoral researcher at Carleton University since August 2022, working with Professor [Mehdi Ammi](https://carleton.ca/sppa/mehdi-ammi-2/) under his CIHR grant on "Public Health Finance". <br>
-I received my PhD in Economics at the University of Ottawa, Canada supervision of [Lilia Karnizova](https://uniweb.uottawa.ca/?lang=fr#!/members/914) and <br> 
+I received my PhD in Economics at the University of Ottawa under supervision of [Lilia Karnizova](https://uniweb.uottawa.ca/?lang=fr#!/members/914) and <br> 
 [Raul Razo-Garcia](https://sites.google.com/site/razogarciahomepage/). <br>
 
 
 <b>Research interests:</b> <br>
 
-I am a macroeconomist with a specialization in quantitative econometrics. My expertise is in international economics, public health, macroeconomics, and applied econometrics.
+I am a macroeconomist with a specialization in quantitative econometrics. My expertise is in international economics, public health, and applied econometrics.
 <br>
 
 
