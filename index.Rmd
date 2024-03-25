@@ -16,7 +16,7 @@ output: html_document
 
 
 Hi!<br>
-I am a postdoctoral researcher at Carleton University since August 2022, working with Professor [Mehdi Ammi](https://carleton.ca/sppa/mehdi-ammi-2/) under his CIHR grant on "Public Health Finance". <br>
+I am currently an advanced researcher serving as a postdoctoral fellow in a joint program with [Sara Allin](https://ihpme.utoronto.ca/faculty-profile/sara-allin/) at the University of Toronto's School of Public Health and [Mehdi Ammi](https://carleton.ca/sppa/mehdi-ammi-2/) under their CIHR grant on "Public Health Finance". In this capacity, I am deeply engaged in conducting advanced research in the field of public health finance. My focus lies in addressing critical issues and exploring innovative solutions to enhance the effectiveness and efficiency of public health financing mechanisms. <br>
 I received my PhD in Economics at the University of Ottawa under supervision of [Lilia Karnizova](https://uniweb.uottawa.ca/?lang=fr#!/members/914) and <br> 
 [Raul Razo-Garcia](https://sites.google.com/site/razogarciahomepage/). <br>
 
@@ -26,12 +26,4 @@ I received my PhD in Economics at the University of Ottawa under supervision of 
 I am a macroeconomist with a specialization in quantitative econometrics. My expertise is in international economics, public health, and applied econometrics.
 <br>
 
-
-
-
-<b>Ph.D. committee members:</b> <br>
-<div style="text-align: justify">
-[Minjoon Lee](https://sites.google.com/site/minjoonlee/) <br>
-[Maral Kichian](https://uniweb.uottawa.ca/members/938/profile)<br>
-[Francesca Rondina](https://sites.google.com/site/francescarondina/home)
 </div>

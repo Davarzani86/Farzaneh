@@ -4,30 +4,41 @@
 <br>
 <br>
 
-## Job Market Paper
+## Working Papers
 
-<font size="3">[<b>World Shocks, Commodity Prices and Domestic Inflation</b>](2ndPaper.pdf)</font> <br>
+<font size="3">[<b>On the Long-Run Association Between Preventive Care Spending and Mortality</b>](2ndPaper.pdf)</font> <br>
 
 <div style="text-align: justify">
-World shocks to global commodity prices can explain fluctuations in domestic inflation, but the extent to which these shocks affect inflation is debatable. Using a factor model with data on a set of 67 advanced and emerging countries, for the period 1970-2014, I extract the co-movements of the prices of several commodities to proxy for world prices. I then devise a structural vector autoregressive model in which world shocks affect these countries’ domestic economies through changes in common factors of commodity prices, and the world interest rate. Findings show that world shocks can explain between 26% and 38% of inflation fluctuations in the median country in the set considered in this study. These results have implications for monetary policymakers in that it highlights the need to use the co-movements of several commodity prices to assess the effects of world shocks on domestic inflation. Previous studies that used single world price vector autoregression models have been found to significantly underestimate the importance of world shocks for domestic business cycles. Similarly, I find that the fraction of the inflation variance explained by world shocks falls by more than half (below 13% in the median country) when a single world price is included in the model. This study extends the literature as it uses three factors of commodities to explain their effects on domestic inflation.
-
+Evidence from OECD Countries, 1970-2020}\\ This study examines the long-term relationship between preventive care spending and mortality rates across 37 OECD countries from 1970 to 2019. Using dynamic common correlated effects (DCCE) panel error correction modeling, it finds a modest long-run preventive care spending elasticity of -0.10, indicating reduced mortality. Higher preventive spending correlates with decreased infant mortality and fewer daily smokers, contributing to increased life expectancy. 
  </div>
 <br>
 
 
-## Working Papers
+<font size="3">[<b>Qualitative Study to Categorize Public Health Expenditure Items in Canada</b>](2ndPaper.pdf)</font> <br>
+
+<div style="text-align: justify">
+This comprehensive study delves into the qualitative analysis of public health expenditures across various jurisdictions in Canada. Utilizing data from the Canadian Institute for Health Information (CIHI), we investigate the components of public health expenditures. Our methodology involves employing focus group discussions to explore differences in categorizing public health spending across different government levels and international contexts.
+ </div>
+<br>
+
+<font size="3">[<b>World Shocks, Commodity Prices and Domestic Inflation</b>](2ndPaper.pdf)</font> <br>
+
+<div style="text-align: justify">
+This research investigates the impact of global commodity price shocks on domestic inflation. Using factor models and structural vector autoregressive models with data from 67 countries (1970-2014), this paper uncovers that world shocks significantly influence inflation fluctuations in the median country. Furthermore, this paper emphasizes the necessity of incorporating commodity price factors in assessing the effects of world shocks on domestic inflation, as single-world-price models tend to underestimate their role in domestic business cycles.
+ </div>
+<br>
+
+
  <font size="3">[<b>Do Commodity Price Shocks matter for Estimating the Output Gap? </b>](3rdPaper.pdf)</font> <br>
 
 <div style="text-align: justify">
-This paper evaluates the importance of commodity price shocks in estimating the output gap. I use the Beveridge and Nelson decomposition method and compute the share of domestic and foreign shocks in the variance decomposition of the output gap. I devise a VAR model in which world shocks affect the output trend and the output gap through changes in commodity prices and global economic factors. I report the results for five advanced and ten emerging economies, over the 1980-2018 period. My results suggest that foreign shocks appear to be more important for the output gap, relative to the output trend, and emerging economies' output trends appear to be more affected by foreign shocks compared to advanced economies. Also, commodity price shocks account for much of the reported shares of foreign shocks in the output trend for both advanced and emerging economies. I also assess the reliability of estimated output gaps in predicting inflation, compared to the reliability of other output measures. I find that output gap estimates do relatively better in inflation forecasting compared to other specifications. This result highlights the need for using commodity price indices in assessing the effects of world shocks on the output gap. 	 
- 
+In this research, I investigate the significance of commodity price shocks in estimating the output gap. Utilizing the Beveridge and Nelson decomposition method and a VAR model with data from advanced and emerging economies (1980-2018), I find that foreign shocks play a substantial role in influencing the output gap compared to the output trend. Additionally, I emphasize the significant contribution of commodity price shocks to the foreign shocks' influence on the output trend and the importance of incorporating commodity price indices in analyzing the effects of world shocks on the output gap. 
 
 
  <font size="3">[<b>The Impact of Income Inequality on Domestic Investment in Resource-Rich Countries </b>](1stPaper.pdf)</font> <br>
 
 <div style="text-align: justify">
 
-This paper examines a relation between income inequality, natural-resource rents and domestic investment in resource-rich countries. While previous studies have found that the unequal distribution of natural-resource rents has a negative impact on general economic performance, little is known about its direct implications for domestic investment. In this paper, I apply difference and system generalized method-of-moments estimators to a dynamic panel of 57 resource-rich countries, over the period 1982-2015. My findings show that, on average, countries with higher income inequality contribute relatively lower proportions of their natural-resource rents to domestic investment than do countries with lower income inequality. This result is robust to a variety of income-inequality measures, estimation approaches, and alternative specifications. The results could help resource-rich countries in their efforts to achieve higher growth using their resource endowments.
-
+This study explores the relationship between income inequality, natural-resource rents, and domestic investment in resource-rich countries. Employing difference and system-generalized method-of-moments estimators with data from 57 resource-rich countries (1982-2015), This paper finds that countries with higher income inequality allocate a relatively smaller proportion of natural-resource rents to domestic investment. The results hold robust across various income-inequality measures, estimation methods, and specifications, providing implications for resource-rich countries aiming for higher economic growth through effective resource utilization.
 </div>
 <br>

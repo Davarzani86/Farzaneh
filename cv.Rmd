@@ -10,6 +10,6 @@ css: cv_styles.css
 <br>
 <br>
 
-You can download my CV [here](Academic_CV.pdf), last update: November 2021<br>
+You can download my CV [here](CV.pdf), last update: November 2021<br>
 
 You can contact me via email at: fdava018@uottawa.ca<br>
